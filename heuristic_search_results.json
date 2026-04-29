@@ -1,0 +1,1388 @@
+[
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 60.64028109758517,
+      "ROUGE-2-F1": 35.75962053448175,
+      "BLEU-1-BP": 21.113691082673807,
+      "BLEU-1-noBP": 37.77538356130906,
+      "METEOR": 25.03013173701137
+    },
+    "margins": {
+      "r1_margin": 8.320281097585166,
+      "r2_margin": 3.437620534481745,
+      "bleu1_bp_margin": -21.286308917326192,
+      "bleu1_no_bp_margin": -4.624616438690936
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 64.39973099613483,
+      "ROUGE-2-F1": 39.673000541834334,
+      "BLEU-1-BP": 28.004420905484185,
+      "BLEU-1-noBP": 37.75846713005598,
+      "METEOR": 31.71079481956899
+    },
+    "margins": {
+      "r1_margin": 12.079730996134835,
+      "r2_margin": 7.351000541834331,
+      "bleu1_bp_margin": -14.395579094515814,
+      "bleu1_no_bp_margin": -4.641532869944015
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 56.49362081122135,
+      "ROUGE-2-F1": 32.6927046885627,
+      "BLEU-1-BP": 15.960117104852818,
+      "BLEU-1-noBP": 37.74366466926222,
+      "METEOR": 21.208805772203334
+    },
+    "margins": {
+      "r1_margin": 4.1736208112213475,
+      "r2_margin": 0.37070468856269656,
+      "bleu1_bp_margin": -26.43988289514718,
+      "bleu1_no_bp_margin": -4.656335330737775
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 62.9444163036833,
+      "ROUGE-2-F1": 37.774430413353755,
+      "BLEU-1-BP": 24.667907275043806,
+      "BLEU-1-noBP": 37.737682707064714,
+      "METEOR": 27.96605851489586
+    },
+    "margins": {
+      "r1_margin": 10.624416303683297,
+      "r2_margin": 5.452430413353753,
+      "bleu1_bp_margin": -17.732092724956193,
+      "bleu1_no_bp_margin": -4.662317292935285
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 64.36154440981359,
+      "ROUGE-2-F1": 40.05630058854008,
+      "BLEU-1-BP": 28.494211173614858,
+      "BLEU-1-noBP": 37.63806028827123,
+      "METEOR": 32.97566395023547
+    },
+    "margins": {
+      "r1_margin": 12.04154440981359,
+      "r2_margin": 7.73430058854008,
+      "bleu1_bp_margin": -13.905788826385141,
+      "bleu1_no_bp_margin": -4.761939711728772
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 49.54760460353243,
+      "ROUGE-2-F1": 28.159239864564153,
+      "BLEU-1-BP": 9.704654751336925,
+      "BLEU-1-noBP": 37.61796802466207,
+      "METEOR": 16.64775071218909
+    },
+    "margins": {
+      "r1_margin": -2.772395396467573,
+      "r2_margin": -4.16276013543585,
+      "bleu1_bp_margin": -32.695345248663074,
+      "bleu1_no_bp_margin": -4.7820319753379295
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 64.10594552789186,
+      "ROUGE-2-F1": 40.03483015797283,
+      "BLEU-1-BP": 28.476497617289894,
+      "BLEU-1-noBP": 37.52869351998313,
+      "METEOR": 33.32110191577189
+    },
+    "margins": {
+      "r1_margin": 11.785945527891862,
+      "r2_margin": 7.7128301579728245,
+      "bleu1_bp_margin": -13.923502382710105,
+      "bleu1_no_bp_margin": -4.8713064800168695
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 64.01948581776996,
+      "ROUGE-2-F1": 40.018846706990324,
+      "BLEU-1-BP": 28.457993995580672,
+      "BLEU-1-noBP": 37.5092330404136,
+      "METEOR": 33.380460998574996
+    },
+    "margins": {
+      "r1_margin": 11.699485817769961,
+      "r2_margin": 7.696846706990321,
+      "bleu1_bp_margin": -13.942006004419326,
+      "bleu1_no_bp_margin": -4.890766959586401
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 63.98181083001784,
+      "ROUGE-2-F1": 40.00610579485653,
+      "BLEU-1-BP": 28.44440925925351,
+      "BLEU-1-noBP": 37.495648304086444,
+      "METEOR": 33.3924831492616
+    },
+    "margins": {
+      "r1_margin": 11.661810830017842,
+      "r2_margin": 7.684105794856528,
+      "bleu1_bp_margin": -13.955590740746487,
+      "bleu1_no_bp_margin": -4.9043516959135545
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 50.6836491934588,
+      "ROUGE-2-F1": 28.611706765969807,
+      "BLEU-1-BP": 10.095190798312107,
+      "BLEU-1-noBP": 37.452914927671806,
+      "METEOR": 16.951598239130856
+    },
+    "margins": {
+      "r1_margin": -1.636350806541202,
+      "r2_margin": -3.710293234030196,
+      "bleu1_bp_margin": -32.30480920168789,
+      "bleu1_no_bp_margin": -4.947085072328193
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 50.73457776646016,
+      "ROUGE-2-F1": 28.62503048817167,
+      "BLEU-1-BP": 10.101540350941598,
+      "BLEU-1-noBP": 37.449657360839076,
+      "METEOR": 16.956009977090535
+    },
+    "margins": {
+      "r1_margin": -1.5854222335398376,
+      "r2_margin": -3.696969511828332,
+      "bleu1_bp_margin": -32.2984596490584,
+      "bleu1_no_bp_margin": -4.950342639160922
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 59.03935121460128,
+      "ROUGE-2-F1": 33.885010414969685,
+      "BLEU-1-BP": 17.37160902455662,
+      "BLEU-1-noBP": 37.382799016522185,
+      "METEOR": 22.210556384387104
+    },
+    "margins": {
+      "r1_margin": 6.719351214601282,
+      "r2_margin": 1.563010414969682,
+      "bleu1_bp_margin": -25.02839097544338,
+      "bleu1_no_bp_margin": -5.017200983477814
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 58.90373094019118,
+      "ROUGE-2-F1": 33.82719387531401,
+      "BLEU-1-BP": 17.32088200407162,
+      "BLEU-1-noBP": 37.37774790949957,
+      "METEOR": 22.171138286914413
+    },
+    "margins": {
+      "r1_margin": 6.583730940191181,
+      "r2_margin": 1.5051938753140064,
+      "bleu1_bp_margin": -25.079117995928378,
+      "bleu1_no_bp_margin": -5.02225209050043
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 64.4961453418059,
+      "ROUGE-2-F1": 37.81338552248332,
+      "BLEU-1-BP": 23.95944602942209,
+      "BLEU-1-noBP": 37.164771802702134,
+      "METEOR": 27.155733509812727
+    },
+    "margins": {
+      "r1_margin": 12.1761453418059,
+      "r2_margin": 5.49138552248332,
+      "bleu1_bp_margin": -18.44055397057791,
+      "bleu1_no_bp_margin": -5.2352281972978645
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 64.73688179066217,
+      "ROUGE-2-F1": 37.92476244324952,
+      "BLEU-1-BP": 24.070697556363232,
+      "BLEU-1-noBP": 37.15077676204835,
+      "METEOR": 27.244920364261787
+    },
+    "margins": {
+      "r1_margin": 12.416881790662167,
+      "r2_margin": 5.602762443249517,
+      "bleu1_bp_margin": -18.329302443636767,
+      "bleu1_no_bp_margin": -5.249223237951647
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 0,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 54.72089554340919,
+      "ROUGE-2-F1": 30.703163055618656,
+      "BLEU-1-BP": 13.223711746727037,
+      "BLEU-1-noBP": 36.70033975531891,
+      "METEOR": 19.0855662856721
+    },
+    "margins": {
+      "r1_margin": 2.4008955434091916,
+      "r2_margin": -1.6188369443813464,
+      "bleu1_bp_margin": -29.17628825327296,
+      "bleu1_no_bp_margin": -5.699660244681091
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 67.76885996798336,
+      "ROUGE-2-F1": 40.55779446760122,
+      "BLEU-1-BP": 28.69018350955771,
+      "BLEU-1-noBP": 36.659207938580984,
+      "METEOR": 31.446461040809492
+    },
+    "margins": {
+      "r1_margin": 15.44885996798336,
+      "r2_margin": 8.235794467601217,
+      "bleu1_bp_margin": -13.70981649044229,
+      "bleu1_no_bp_margin": -5.740792061419015
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 68.081506539973,
+      "ROUGE-2-F1": 40.693410765545615,
+      "BLEU-1-BP": 28.82676187059114,
+      "BLEU-1-noBP": 36.566940986596094,
+      "METEOR": 31.606692450702393
+    },
+    "margins": {
+      "r1_margin": 15.761506539973006,
+      "r2_margin": 8.371410765545612,
+      "bleu1_bp_margin": -13.573238129408857,
+      "bleu1_no_bp_margin": -5.833059013403904
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 69.29946373085605,
+      "ROUGE-2-F1": 43.02251080119236,
+      "BLEU-1-BP": 32.30995011799626,
+      "BLEU-1-noBP": 34.99532477823551,
+      "METEOR": 37.66741754947552
+    },
+    "margins": {
+      "r1_margin": 16.979463730856047,
+      "r2_margin": 10.700510801192358,
+      "bleu1_bp_margin": -10.09004988200374,
+      "bleu1_no_bp_margin": -7.404675221764485
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 61.740920032456614,
+      "ROUGE-2-F1": 34.190871676257906,
+      "BLEU-1-BP": 17.97246340418614,
+      "BLEU-1-noBP": 34.631071021016716,
+      "METEOR": 22.552163078492857
+    },
+    "margins": {
+      "r1_margin": 9.420920032456614,
+      "r2_margin": 1.8688716762579034,
+      "bleu1_bp_margin": -24.42753659581386,
+      "bleu1_no_bp_margin": -7.768928978983283
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 61.775114641080656,
+      "ROUGE-2-F1": 34.203347778528325,
+      "BLEU-1-BP": 17.99381230019442,
+      "BLEU-1-noBP": 34.607404208095346,
+      "METEOR": 22.566207001673334
+    },
+    "margins": {
+      "r1_margin": 9.455114641080655,
+      "r2_margin": 1.8813477785283226,
+      "bleu1_bp_margin": -24.406187699805578,
+      "bleu1_no_bp_margin": -7.7925957919046525
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 61.773430716526086,
+      "ROUGE-2-F1": 34.20426154307431,
+      "BLEU-1-BP": 17.99384822930409,
+      "BLEU-1-noBP": 34.607129228993756,
+      "METEOR": 22.56618572669449
+    },
+    "margins": {
+      "r1_margin": 9.453430716526086,
+      "r2_margin": 1.882261543074307,
+      "bleu1_bp_margin": -24.40615177069591,
+      "bleu1_no_bp_margin": -7.792870771006243
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 69.44509640311612,
+      "ROUGE-2-F1": 43.0745010807242,
+      "BLEU-1-BP": 32.21329584301648,
+      "BLEU-1-noBP": 34.37191151899258,
+      "METEOR": 38.154508528241344
+    },
+    "margins": {
+      "r1_margin": 17.125096403116125,
+      "r2_margin": 10.752501080724194,
+      "bleu1_bp_margin": -10.186704156983517,
+      "bleu1_no_bp_margin": -8.028088481007416
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 68.7164247467939,
+      "ROUGE-2-F1": 39.373209062613675,
+      "BLEU-1-BP": 26.55273959724555,
+      "BLEU-1-noBP": 34.26143345108586,
+      "METEOR": 30.201477031076486
+    },
+    "margins": {
+      "r1_margin": 16.396424746793905,
+      "r2_margin": 7.0512090626136725,
+      "bleu1_bp_margin": -15.847260402754447,
+      "bleu1_no_bp_margin": -8.138566548914142
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 66.19627492261124,
+      "ROUGE-2-F1": 37.03008028241324,
+      "BLEU-1-BP": 22.55698154289616,
+      "BLEU-1-noBP": 34.24278953127435,
+      "METEOR": 26.346324407523998
+    },
+    "margins": {
+      "r1_margin": 13.876274922611238,
+      "r2_margin": 4.708080282413235,
+      "bleu1_bp_margin": -19.843018457103838,
+      "bleu1_no_bp_margin": -8.157210468725651
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 66.27292554061027,
+      "ROUGE-2-F1": 37.03382693613962,
+      "BLEU-1-BP": 22.601879861818094,
+      "BLEU-1-noBP": 34.13880001967981,
+      "METEOR": 26.391836090281057
+    },
+    "margins": {
+      "r1_margin": 13.952925540610273,
+      "r2_margin": 4.711826936139616,
+      "bleu1_bp_margin": -19.798120138181904,
+      "bleu1_no_bp_margin": -8.261199980320185
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 66.2657649545679,
+      "ROUGE-2-F1": 37.030454919659796,
+      "BLEU-1-BP": 22.60014653450678,
+      "BLEU-1-noBP": 34.13525832122305,
+      "METEOR": 26.391331132209658
+    },
+    "margins": {
+      "r1_margin": 13.945764954567899,
+      "r2_margin": 4.708454919659793,
+      "bleu1_bp_margin": -19.799853465493218,
+      "bleu1_no_bp_margin": -8.26474167877695
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 69.76008482756302,
+      "ROUGE-2-F1": 41.00612843348352,
+      "BLEU-1-BP": 29.15936710430874,
+      "BLEU-1-noBP": 34.038987419064505,
+      "METEOR": 33.4001087721795
+    },
+    "margins": {
+      "r1_margin": 17.44008482756302,
+      "r2_margin": 8.684128433483515,
+      "bleu1_bp_margin": -13.24063289569126,
+      "bleu1_no_bp_margin": -8.361012580935494
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 68.8748253972966,
+      "ROUGE-2-F1": 39.433606390080165,
+      "BLEU-1-BP": 26.675304155135372,
+      "BLEU-1-noBP": 34.01221004658177,
+      "METEOR": 30.388870627589128
+    },
+    "margins": {
+      "r1_margin": 16.554825397296604,
+      "r2_margin": 7.111606390080162,
+      "bleu1_bp_margin": -15.724695844864627,
+      "bleu1_no_bp_margin": -8.387789953418228
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 60,
+    "metrics": {
+      "ROUGE-1-F1": 68.8619777287684,
+      "ROUGE-2-F1": 39.422582108378634,
+      "BLEU-1-BP": 26.66710422150279,
+      "BLEU-1-noBP": 33.99898399602855,
+      "METEOR": 30.387045098563615
+    },
+    "margins": {
+      "r1_margin": 16.541977728768394,
+      "r2_margin": 7.100582108378632,
+      "bleu1_bp_margin": -15.732895778497209,
+      "bleu1_no_bp_margin": -8.40101600397145
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 69.85836870412572,
+      "ROUGE-2-F1": 42.064001114044785,
+      "BLEU-1-BP": 30.703081000455967,
+      "BLEU-1-noBP": 33.91409549465055,
+      "METEOR": 36.19021849180646
+    },
+    "margins": {
+      "r1_margin": 17.538368704125723,
+      "r2_margin": 9.742001114044783,
+      "bleu1_bp_margin": -11.696918999544032,
+      "bleu1_no_bp_margin": -8.485904505349446
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 69.53283328283815,
+      "ROUGE-2-F1": 42.743147869124094,
+      "BLEU-1-BP": 31.294108526929527,
+      "BLEU-1-noBP": 33.74524976352799,
+      "METEOR": 38.26402491047215
+    },
+    "margins": {
+      "r1_margin": 17.212833282838155,
+      "r2_margin": 10.421147869124091,
+      "bleu1_bp_margin": -11.105891473070471,
+      "bleu1_no_bp_margin": -8.654750236472012
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 68.6279642005571,
+      "ROUGE-2-F1": 43.365674014411354,
+      "BLEU-1-BP": 31.603099157520024,
+      "BLEU-1-noBP": 33.6635520880633,
+      "METEOR": 41.04700697823941
+    },
+    "margins": {
+      "r1_margin": 16.3079642005571,
+      "r2_margin": 11.043674014411351,
+      "bleu1_bp_margin": -10.796900842479975,
+      "bleu1_no_bp_margin": -8.7364479119367
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 70.05993745487366,
+      "ROUGE-2-F1": 41.31471454502473,
+      "BLEU-1-BP": 29.57691994182921,
+      "BLEU-1-noBP": 33.62946030717537,
+      "METEOR": 34.069492113267366
+    },
+    "margins": {
+      "r1_margin": 17.73993745487366,
+      "r2_margin": 8.992714545024725,
+      "bleu1_bp_margin": -12.823080058170788,
+      "bleu1_no_bp_margin": -8.770539692824627
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 80,
+    "metrics": {
+      "ROUGE-1-F1": 70.05617628594065,
+      "ROUGE-2-F1": 41.31341234001617,
+      "BLEU-1-BP": 29.572009057906218,
+      "BLEU-1-noBP": 33.604607633939096,
+      "METEOR": 34.09108810912093
+    },
+    "margins": {
+      "r1_margin": 17.73617628594065,
+      "r2_margin": 8.991412340016169,
+      "bleu1_bp_margin": -12.82799094209378,
+      "bleu1_no_bp_margin": -8.795392366060902
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 68.02761797809093,
+      "ROUGE-2-F1": 43.415956384951095,
+      "BLEU-1-BP": 31.489059373794365,
+      "BLEU-1-noBP": 33.505015066774234,
+      "METEOR": 41.94145451649279
+    },
+    "margins": {
+      "r1_margin": 15.70761797809093,
+      "r2_margin": 11.093956384951092,
+      "bleu1_bp_margin": -10.910940626205633,
+      "bleu1_no_bp_margin": -8.894984933225764
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 67.66826117423392,
+      "ROUGE-2-F1": 43.315923812962424,
+      "BLEU-1-BP": 31.396136643872868,
+      "BLEU-1-noBP": 33.406428597041156,
+      "METEOR": 42.20151740276576
+    },
+    "margins": {
+      "r1_margin": 15.348261174233919,
+      "r2_margin": 10.993923812962421,
+      "bleu1_bp_margin": -11.00386335612713,
+      "bleu1_no_bp_margin": -8.993571402958842
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 67.57787072515055,
+      "ROUGE-2-F1": 43.282419020115974,
+      "BLEU-1-BP": 31.37075909402471,
+      "BLEU-1-noBP": 33.381051047193,
+      "METEOR": 42.24117544843106
+    },
+    "margins": {
+      "r1_margin": 15.257870725150546,
+      "r2_margin": 10.960419020115971,
+      "bleu1_bp_margin": -11.02924090597529,
+      "bleu1_no_bp_margin": -9.018948952807001
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 1,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 67.53448754164803,
+      "ROUGE-2-F1": 43.26131467880679,
+      "BLEU-1-BP": 31.353651786273012,
+      "BLEU-1-noBP": 33.3639437394413,
+      "METEOR": 42.24440222139945
+    },
+    "margins": {
+      "r1_margin": 15.214487541648033,
+      "r2_margin": 10.939314678806788,
+      "bleu1_bp_margin": -11.046348213726986,
+      "bleu1_no_bp_margin": -9.036056260558702
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 70.11783283465233,
+      "ROUGE-2-F1": 42.72279772992886,
+      "BLEU-1-BP": 31.34995249773032,
+      "BLEU-1-noBP": 33.32438091312774,
+      "METEOR": 37.71043677961517
+    },
+    "margins": {
+      "r1_margin": 17.797832834652333,
+      "r2_margin": 10.400797729928854,
+      "bleu1_bp_margin": -11.050047502269678,
+      "bleu1_no_bp_margin": -9.075619086872258
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 100,
+    "metrics": {
+      "ROUGE-1-F1": 70.09841475436185,
+      "ROUGE-2-F1": 42.72061183452683,
+      "BLEU-1-BP": 31.33656445508608,
+      "BLEU-1-noBP": 33.267525135113594,
+      "METEOR": 37.75437819389717
+    },
+    "margins": {
+      "r1_margin": 17.778414754361854,
+      "r2_margin": 10.398611834526825,
+      "bleu1_bp_margin": -11.063435544913919,
+      "bleu1_no_bp_margin": -9.132474864886404
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 69.39335938205573,
+      "ROUGE-2-F1": 43.60898977275916,
+      "BLEU-1-BP": 31.8688263086835,
+      "BLEU-1-noBP": 32.83489233030163,
+      "METEOR": 40.76843121286807
+    },
+    "margins": {
+      "r1_margin": 17.073359382055735,
+      "r2_margin": 11.286989772759156,
+      "bleu1_bp_margin": -10.5311736913165,
+      "bleu1_no_bp_margin": -9.56510766969837
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 120,
+    "metrics": {
+      "ROUGE-1-F1": 69.3135805084006,
+      "ROUGE-2-F1": 43.585234498734934,
+      "BLEU-1-BP": 31.823008138293364,
+      "BLEU-1-noBP": 32.71618074458239,
+      "METEOR": 40.85469392244454
+    },
+    "margins": {
+      "r1_margin": 16.993580508400605,
+      "r2_margin": 11.263234498734931,
+      "bleu1_bp_margin": -10.576991861706635,
+      "bleu1_no_bp_margin": -9.68381925541761
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 67.60920286477614,
+      "ROUGE-2-F1": 42.6060627078294,
+      "BLEU-1-BP": 31.100622541090623,
+      "BLEU-1-noBP": 32.68215264622536,
+      "METEOR": 40.11096628988436
+    },
+    "margins": {
+      "r1_margin": 15.289202864776136,
+      "r2_margin": 10.2840627078294,
+      "bleu1_bp_margin": -11.299377458909376,
+      "bleu1_no_bp_margin": -9.717847353774637
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 66.80461037564235,
+      "ROUGE-2-F1": 44.078888638601605,
+      "BLEU-1-BP": 31.24287159431898,
+      "BLEU-1-noBP": 31.622708989740836,
+      "METEOR": 45.33210641097617
+    },
+    "margins": {
+      "r1_margin": 14.484610375642355,
+      "r2_margin": 11.756888638601602,
+      "bleu1_bp_margin": -11.157128405681018,
+      "bleu1_no_bp_margin": -10.777291010259162
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 160,
+    "metrics": {
+      "ROUGE-1-F1": 66.21393667656022,
+      "ROUGE-2-F1": 43.851360396185115,
+      "BLEU-1-BP": 30.877176365674373,
+      "BLEU-1-noBP": 31.134891893931638,
+      "METEOR": 45.6210771440608
+    },
+    "margins": {
+      "r1_margin": 13.893936676560223,
+      "r2_margin": 11.529360396185112,
+      "bleu1_bp_margin": -11.522823634325626,
+      "bleu1_no_bp_margin": -11.26510810606836
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 66.78597914529617,
+      "ROUGE-2-F1": 42.23469409267651,
+      "BLEU-1-BP": 30.12130700442009,
+      "BLEU-1-noBP": 30.996676637130776,
+      "METEOR": 41.203756878930726
+    },
+    "margins": {
+      "r1_margin": 14.465979145296167,
+      "r2_margin": 9.91269409267651,
+      "bleu1_bp_margin": -12.27869299557991,
+      "bleu1_no_bp_margin": -11.403323362869223
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 64.79162820432097,
+      "ROUGE-2-F1": 41.27045367183514,
+      "BLEU-1-BP": 29.023820159429473,
+      "BLEU-1-noBP": 30.41456132897593,
+      "METEOR": 41.31471541982157
+    },
+    "margins": {
+      "r1_margin": 12.471628204320972,
+      "r2_margin": 8.94845367183514,
+      "bleu1_bp_margin": -13.376179840570526,
+      "bleu1_no_bp_margin": -11.98543867102407
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 64.08853688552512,
+      "ROUGE-2-F1": 43.153143010694485,
+      "BLEU-1-BP": 29.638551605498673,
+      "BLEU-1-noBP": 29.927989461081157,
+      "METEOR": 46.99497016052865
+    },
+    "margins": {
+      "r1_margin": 11.768536885525116,
+      "r2_margin": 10.831143010694483,
+      "bleu1_bp_margin": -12.761448394501326,
+      "bleu1_no_bp_margin": -12.472010538918841
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 39.335062626869075,
+      "ROUGE-2-F1": 21.737882156754303,
+      "BLEU-1-BP": 3.6443744171765298,
+      "BLEU-1-noBP": 36.89357243770105,
+      "METEOR": 11.376661659378023
+    },
+    "margins": {
+      "r1_margin": -12.984937373130926,
+      "r2_margin": -10.5841178432457,
+      "bleu1_bp_margin": -38.75562558282347,
+      "bleu1_no_bp_margin": -5.506427562298946
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 39.324151354401764,
+      "ROUGE-2-F1": 21.736310250953267,
+      "BLEU-1-BP": 3.643630655146652,
+      "BLEU-1-noBP": 36.89565005757972,
+      "METEOR": 11.376708086637882
+    },
+    "margins": {
+      "r1_margin": -12.995848645598237,
+      "r2_margin": -10.585689749046736,
+      "bleu1_bp_margin": -38.75636934485335,
+      "bleu1_no_bp_margin": -5.504349942420276
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 62.99670223262891,
+      "ROUGE-2-F1": 40.41267609008003,
+      "BLEU-1-BP": 27.874224137176512,
+      "BLEU-1-noBP": 29.257831006935934,
+      "METEOR": 41.75196481355884
+    },
+    "margins": {
+      "r1_margin": 10.676702232628912,
+      "r2_margin": 8.09067609008003,
+      "bleu1_bp_margin": -14.525775862823487,
+      "bleu1_no_bp_margin": -13.142168993064065
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 40,
+    "metrics": {
+      "ROUGE-1-F1": 38.870417492923785,
+      "ROUGE-2-F1": 21.56688391649358,
+      "BLEU-1-BP": 3.591702936108878,
+      "BLEU-1-noBP": 36.91069796155807,
+      "METEOR": 11.299739040234009
+    },
+    "margins": {
+      "r1_margin": -13.449582507076215,
+      "r2_margin": -10.755116083506422,
+      "bleu1_bp_margin": -38.80829706389112,
+      "bleu1_no_bp_margin": -5.489302038441927
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 62.287828839073704,
+      "ROUGE-2-F1": 40.02687021682075,
+      "BLEU-1-BP": 27.487772906550788,
+      "BLEU-1-noBP": 28.871379776310203,
+      "METEOR": 41.767787064346436
+    },
+    "margins": {
+      "r1_margin": 9.967828839073704,
+      "r2_margin": 7.704870216820744,
+      "bleu1_bp_margin": -14.91222709344921,
+      "bleu1_no_bp_margin": -13.528620223689796
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 200,
+    "metrics": {
+      "ROUGE-1-F1": 62.370212977945855,
+      "ROUGE-2-F1": 42.41388470110967,
+      "BLEU-1-BP": 28.53848151245058,
+      "BLEU-1-noBP": 28.67821330719754,
+      "METEOR": 47.63999591050774
+    },
+    "margins": {
+      "r1_margin": 10.050212977945854,
+      "r2_margin": 10.09188470110967,
+      "bleu1_bp_margin": -13.861518487549418,
+      "bleu1_no_bp_margin": -13.721786692802457
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 61.28636870017038,
+      "ROUGE-2-F1": 41.72587294412016,
+      "BLEU-1-BP": 27.907616876095247,
+      "BLEU-1-noBP": 28.18730144389379,
+      "METEOR": 47.68960011560477
+    },
+    "margins": {
+      "r1_margin": 8.966368700170378,
+      "r2_margin": 9.40387294412016,
+      "bleu1_bp_margin": -14.492383123904752,
+      "bleu1_no_bp_margin": -14.212698556106208
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 59.73188123357434,
+      "ROUGE-2-F1": 40.88831227835685,
+      "BLEU-1-BP": 26.984015530915826,
+      "BLEU-1-noBP": 27.26370009871437,
+      "METEOR": 47.906868752269524
+    },
+    "margins": {
+      "r1_margin": 7.411881233574341,
+      "r2_margin": 8.566312278356847,
+      "bleu1_bp_margin": -15.415984469084172,
+      "bleu1_no_bp_margin": -15.136299901285629
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 61.84161445410564,
+      "ROUGE-2-F1": 39.845317901130215,
+      "BLEU-1-BP": 26.442307202663578,
+      "BLEU-1-noBP": 27.054318434467863,
+      "METEOR": 42.96846703867234
+    },
+    "margins": {
+      "r1_margin": 9.521614454105638,
+      "r2_margin": 7.523317901130213,
+      "bleu1_bp_margin": -15.95769279733642,
+      "bleu1_no_bp_margin": -15.345681565532136
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 2,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 59.126045867084194,
+      "ROUGE-2-F1": 40.52074304124111,
+      "BLEU-1-BP": 26.656760151414566,
+      "BLEU-1-noBP": 26.93644471921312,
+      "METEOR": 47.86623483563771
+    },
+    "margins": {
+      "r1_margin": 6.806045867084194,
+      "r2_margin": 8.198743041241109,
+      "bleu1_bp_margin": -15.743239848585432,
+      "bleu1_no_bp_margin": -15.463555280786878
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 260,
+    "metrics": {
+      "ROUGE-1-F1": 57.543338549581364,
+      "ROUGE-2-F1": 39.90335041190549,
+      "BLEU-1-BP": 25.505423844828634,
+      "BLEU-1-noBP": 25.624657568967105,
+      "METEOR": 48.53348513479291
+    },
+    "margins": {
+      "r1_margin": 5.223338549581364,
+      "r2_margin": 7.58135041190549,
+      "bleu1_bp_margin": -16.894576155171364,
+      "bleu1_no_bp_margin": -16.775342431032893
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 57.44022470882004,
+      "ROUGE-2-F1": 37.71956151134913,
+      "BLEU-1-BP": 23.75572075378325,
+      "BLEU-1-noBP": 24.35561096726491,
+      "METEOR": 43.91536933659395
+    },
+    "margins": {
+      "r1_margin": 5.120224708820039,
+      "r2_margin": 5.397561511349124,
+      "bleu1_bp_margin": -18.644279246216747,
+      "bleu1_no_bp_margin": -18.04438903273509
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 340,
+    "metrics": {
+      "ROUGE-1-F1": 53.74281741294505,
+      "ROUGE-2-F1": 37.82982027926888,
+      "BLEU-1-BP": 23.3279123990967,
+      "BLEU-1-noBP": 23.447146123235182,
+      "METEOR": 48.96374377911741
+    },
+    "margins": {
+      "r1_margin": 1.4228174129450508,
+      "r2_margin": 5.507820279268877,
+      "bleu1_bp_margin": -19.0720876009033,
+      "bleu1_no_bp_margin": -18.952853876764816
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 54.31130641536357,
+      "ROUGE-2-F1": 35.92494488291766,
+      "BLEU-1-BP": 22.052322336925535,
+      "BLEU-1-noBP": 22.652212550407185,
+      "METEOR": 43.86556938373152
+    },
+    "margins": {
+      "r1_margin": 1.9913064153635673,
+      "r2_margin": 3.6029448829176545,
+      "bleu1_bp_margin": -20.347677663074464,
+      "bleu1_no_bp_margin": -19.747787449592813
+    }
+  },
+  {
+    "use_headline": true,
+    "lead_sentences": 3,
+    "lead_chars": 0,
+    "metrics": {
+      "ROUGE-1-F1": 51.10961423611227,
+      "ROUGE-2-F1": 36.17181542681782,
+      "BLEU-1-BP": 21.875491303954313,
+      "BLEU-1-noBP": 21.994725028092795,
+      "METEOR": 48.639384731342204
+    },
+    "margins": {
+      "r1_margin": -1.2103857638877287,
+      "r2_margin": 3.8498154268178197,
+      "bleu1_bp_margin": -20.524508696045686,
+      "bleu1_no_bp_margin": -20.405274971907204
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 3,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 23.277485928369515,
+      "ROUGE-2-F1": 12.728883054697308,
+      "BLEU-1-BP": 0.29060414573249727,
+      "BLEU-1-noBP": 34.84738397976991,
+      "METEOR": 5.559135632367744
+    },
+    "margins": {
+      "r1_margin": -29.042514071630485,
+      "r2_margin": -19.593116945302697,
+      "bleu1_bp_margin": -42.109395854267504,
+      "bleu1_no_bp_margin": -7.55261602023009
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 2,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 23.27100124693792,
+      "ROUGE-2-F1": 12.727104517833917,
+      "BLEU-1-BP": 0.29060414573249727,
+      "BLEU-1-noBP": 34.84738397976991,
+      "METEOR": 5.559135632367744
+    },
+    "margins": {
+      "r1_margin": -29.04899875306208,
+      "r2_margin": -19.594895482166088,
+      "bleu1_bp_margin": -42.109395854267504,
+      "bleu1_no_bp_margin": -7.55261602023009
+    }
+  },
+  {
+    "use_headline": false,
+    "lead_sentences": 1,
+    "lead_chars": 20,
+    "metrics": {
+      "ROUGE-1-F1": 23.158582093891916,
+      "ROUGE-2-F1": 12.673929826827656,
+      "BLEU-1-BP": 0.28679534249171657,
+      "BLEU-1-noBP": 34.85415108451757,
+      "METEOR": 5.539596124412147
+    },
+    "margins": {
+      "r1_margin": -29.161417906108085,
+      "r2_margin": -19.648070173172346,
+      "bleu1_bp_margin": -42.113204657508284,
+      "bleu1_no_bp_margin": -7.545848915482431
+    }
+  }
+]

@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+checkpoints/
+data/*.csv
+data/*.txt
+data/processed/
+
+retrieval_abstractive_char.json
+retrieval_abstractive_word.json
+retrieval_abstractive_sklearn_char.json
+retrieval_abstractive_sklearn_word.json
+tmp_cmp.json
+
